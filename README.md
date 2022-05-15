@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarveshMina
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java and C++ to make games.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me minasarvesh@gmail.com
 
 <!---
