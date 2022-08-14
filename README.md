@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarveshMina
-- 👀 I’m interested in Programming and Making Games.
+- 👀 I’m interested in Programming, Mathematics and Making Games.
 - 🌱 I’m currently learning Java, C# and C++ to make games.
 - 📫 You can reach me through email on minasarvesh@gmail.com
 
