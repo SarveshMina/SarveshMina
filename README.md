@@ -1,44 +1,68 @@
-# Hey there, I'm Sarvesh Mina! 👋
+<div align="center">
 
-**Ambitious Computer Science student** with a strong foundation in **Cloud Technologies**, **Game Development**, and **Frontend Development**. I’m passionate about leveraging technology to solve real-world problems and advance innovation in software development and AI.
+# Sarvesh Mina
 
-## 💡 About Me
-- 🎓 **MEng Computer Science** student at the University of Southampton
-- ☁️ Particularly interested in **Cloud Computing** and **Serverless Architectures**
-- 🕹 Building side projects in **Game Development** (Unity/C#) 
-- 🧩 Avid problem-solver who loves hackathons, AI, and everything tech
-- 🌱 Currently learning TypeScript, Vue.js, and advanced ML
+MEng Computer Science &nbsp;·&nbsp; University of Southampton
 
-## ⚙️ Tech & Tools
-- **Programming Languages**: Java, Python, C++, JavaScript/TypeScript
-- **Frameworks & Libraries**: Vue.js, React, Node.js, Unity
-- **Cloud / DevOps**: AWS, Docker, GitHub Actions
-- **Databases**: MySQL, MongoDB
+[sarveshmina.com](https://sarveshmina.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sarvesh-mina) &nbsp;·&nbsp; [Email](mailto:minasarvesh@gmail.com)
 
-## 📊 GitHub Stats
-[![](https://raw.githubusercontent.com/SarveshMina/SarveshMina/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/SarveshMina/SarveshMina/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SarveshMina/SarveshMina/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/SarveshMina/SarveshMina/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SarveshMina/SarveshMina/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-> *Cards generated using [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).*
-
-## 🔗 Let’s Connect
-- **Portfolio**: [sarveshmina.github.io](https://sarveshmina.github.io/)
-- **GitHub**: [github.com/SarveshMina](https://github.com/SarveshMina)
-- **LinkedIn**: [linkedin.com/in/sarvesh-mina](https://linkedin.com/in/sarvesh-mina)
-- **Email**: [minasarvesh@gmail.com](mailto:minasarvesh@gmail.com)
-
-## 🚀 My Goals
-- Continue learning **Serverless** and **Kubernetes** for scalable apps
-- Dive deeper into **AI/ML** for game analytics & beyond
-- Contribute to more open-source projects and hackathons
-- Build a community for fellow developers & students
+</div>
 
 ---
-_“Optimism is an occupational hazard of programming; feedback is the treatment.”_ – Kent Beck
 
-Thanks for stopping by! Feel free to explore my repositories, open an issue, or just drop a message.
+Computer Science student at Southampton focused on cloud infrastructure, frontend engineering, and game development. I enjoy building things that are scalable, well-structured, and actually worth using.
+
+---
+
+## Skills
+
+**Languages** &nbsp;
+![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-555555?style=flat-square&logo=csharp&logoColor=white)
+
+**Frameworks** &nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-555555?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-555555?style=flat-square&logo=unity&logoColor=white)
+
+**Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-555555?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=flat-square&logo=githubactions&logoColor=white)
+
+**Databases** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [GradeGuard](https://github.com/SarveshMina/GradeGuard) | University grade tracking app with serverless backend | Vue.js · Azure Functions · Capacitor |
+| [Cube Runner 3D](https://github.com/SarveshMina/Cube_Runner_3D) | 3D endless runner game | Unity · C# |
+| [Atari Snake](https://github.com/SarveshMina/AtariSnakeGame) | Faithful recreation of the classic Atari snake game | Java |
+| [Portfolio](https://github.com/SarveshMina/SarveshMina.github.io) | Personal portfolio site | HTML · CSS |
+
+---
+
+## Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SarveshMina&show_icons=true&bg_color=fafafa&title_color=333333&text_color=555555&icon_color=888888&border_color=e0e0e0&border_radius=4" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshMina&layout=compact&bg_color=fafafa&title_color=333333&text_color=555555&border_color=e0e0e0&border_radius=4" />
+</p>
+
+---
+
+<div align="center">
+  <sub>"Optimism is an occupational hazard of programming; feedback is the treatment." — Kent Beck</sub>
+</div>
