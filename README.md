@@ -56,13 +56,16 @@ Computer Science student at Southampton focused on cloud infrastructure, fronten
 ## Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SarveshMina&show_icons=true&bg_color=fafafa&title_color=333333&text_color=555555&icon_color=888888&border_color=e0e0e0&border_radius=4" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshMina&layout=compact&bg_color=fafafa&title_color=333333&text_color=555555&border_color=e0e0e0&border_radius=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SarveshMina&show_icons=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=888888&border_color=e0e0e0&border_radius=4" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshMina&layout=compact&bg_color=ffffff&title_color=333333&text_color=555555&border_color=e0e0e0&border_radius=4" height="160" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SarveshMina&background=ffffff&border=e0e0e0&stroke=e0e0e0&ring=555555&fire=888888&currStreakNum=333333&sideNums=333333&currStreakLabel=555555&sideLabels=555555&dates=888888" height="150" />
+</p>
 
-<div align="center">
-  <sub>"Optimism is an occupational hazard of programming; feedback is the treatment." — Kent Beck</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshMina&bg_color=ffffff&color=555555&line=888888&point=333333&area=true&area_color=eeeeee&hide_border=false" width="95%" />
+</p>
+
