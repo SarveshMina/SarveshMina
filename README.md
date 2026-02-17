@@ -56,9 +56,11 @@ Computer Science student at Southampton focused on cloud infrastructure, fronten
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveshMina&show_icons=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=888888&border_color=e0e0e0&border_radius=4" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarveshMina&theme=default" height="130" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshMina&layout=compact&bg_color=ffffff&title_color=333333&text_color=555555&border_color=e0e0e0&border_radius=4" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarveshMina&theme=default" height="130" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SarveshMina&theme=default" height="130" />
 </p>
 
 <p align="center">
@@ -66,6 +68,7 @@ Computer Science student at Southampton focused on cloud infrastructure, fronten
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshMina&bg_color=ffffff&color=555555&line=888888&point=333333&area=true&area_color=eeeeee&hide_border=false" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshMina&bg_color=ffffff&color=555555&line=888888&point=333333&area=true&area_color=f0f0f0&custom_title=Contribution+Graph" width="95%" />
 </p>
+
 
